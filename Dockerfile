@@ -1,4 +1,4 @@
-helloworld.py FROM python:3-alpine
+FROM python:3-alpine
 
 COPY helloworld.py /
 
